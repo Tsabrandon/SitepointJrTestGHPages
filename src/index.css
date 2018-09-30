@@ -1,0 +1,18 @@
+*{
+    margin: 3px; 
+    padding: 3px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+button .btn{
+    /* margin: 3px !important;
+    padding: 3px !important; */
+
+}
+a, .btn, {
+
+}
+#root{
+    margin-top: 50px;
+}
